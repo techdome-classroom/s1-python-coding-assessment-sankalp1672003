@@ -18,5 +18,6 @@ class Solution:
                 if grid[row][column]=='L':
                     island+=1
                     dfs(row,column)
+        
         return island
         
