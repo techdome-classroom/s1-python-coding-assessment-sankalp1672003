@@ -4,5 +4,5 @@ class Solution:
     #    write your code here
         if not grid:
             return 0
-                    
+        r,c            
         return 0
